@@ -1,4 +1,3 @@
 return {
-    "6817DE98-B614-4087-A6A1-0995A94D6820",
-    "40AF7237-55F4-441B-85E5-CAFA80C7336C",
+    game:GetService('RbxAnalyticsService'):GetClientId()
 }
